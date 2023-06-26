@@ -1,0 +1,34 @@
+Registration Summary
+Registration Date: 07/12/2022
+Registrant Name: Braeden Dempsey
+Email Address: braeden@usf.edu
+Date of Birth: 04/16/1998
+Status: Sound Technician
+Classes Selected: 
+Lighting 
+Producing 
+Sound Design 
+Special Effects 
+Number of Classes Selected: 4
+Price Per Class: $79.95
+Total Registration Price: $319.80
+Payment Type: Cash
+Email Receipt Requested: Yes
+
+Registration Summary
+Registration Date: 07/12/2022
+Registrant Name: Bob Smith
+Email Address: bob@usf.edu
+Date of Birth: 01/01/2000
+Status: Actor
+Classes Selected: 
+2D Animation 
+3D Animation 
+Character Design 
+Digital Editing 
+Number of Classes Selected: 4
+Price Per Class: $99.95
+Total Registration Price: $399.80
+Payment Type: Check
+Email Receipt Requested: Yes
+
