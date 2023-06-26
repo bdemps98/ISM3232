@@ -1,0 +1,10 @@
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\bin\Debug\Dempsey_2.exe.config
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\bin\Debug\Dempsey_2.exe
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\bin\Debug\Dempsey_2.pdb
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.csprojAssemblyReference.cache
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.LanguageArtsInstitute.resources
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.Properties.Resources.resources
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.csproj.GenerateResource.cache
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.csproj.CoreCompileInputs.cache
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.exe
+C:\Users\braed\Documents\School\Summer 2022\ISM3232\C#\Dempsey_2\Dempsey_2\obj\Debug\Dempsey_2.pdb
